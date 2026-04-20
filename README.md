@@ -1,31 +1,26 @@
+
 # Titanic Mini Project
 
 Mini data analysis project using Python + Google Colab.
 
-## What I did
-- Data loading
-- Basic EDA
-- Visualization
+## Files
+- titanic_analysis.py
+- titanic_analysis.ipynb
 
-## Tools
-- Python
-- Pandas
-- Seaborn
-- Google Colab
+## Result
+- Survival Rate by Gender
+- Survival Rate by Class
 
 ---
 
-# Dự Án Titanic Mini
+# Dự án Mini Titanic
 
 Dự án phân tích dữ liệu nhỏ sử dụng Python + Google Colab.
 
-## Những gì tôi đã làm
-- Tải dữ liệu
-- Phân tích khám phá dữ liệu cơ bản (EDA)
-- Trực quan hóa dữ liệu
+## Tệp
+- titanic_analysis.py
+- titanic_analysis.ipynb
 
-## Công cụ sử dụng
-- Python
-- Pandas
-- Seaborn
-- Google Colab
+## Kết quả
+- Tỷ lệ sống sót theo giới tính
+- Tỷ lệ sống sót theo hạng vé
